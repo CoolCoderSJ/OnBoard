@@ -10,4 +10,6 @@ Never designed a PCB before? You're in the right place! The OnBoard community ha
 
 ## PCB Tutorials
 
-FILL ME IN!
+- [PCB Business Card with NFC](https://jams.hackclub.com/jam/hacker-card)
+- [Build a USB Hub](https://jams.hackclub.com/batch/usb-hub)
+- [Make a Digital Level](https://jams.hackclub.com/batch/sparkletilt-pcb)
